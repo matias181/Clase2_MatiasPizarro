@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        //segunda modificacion desde la Web
+        //nueva rama creada denominada "nuevaFuncionalidad"
         System.out.println("Hello World");
     }
 }
